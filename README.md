@@ -83,6 +83,12 @@
 
 </details>
 
+<details>
+  <summary>:zap: Most used Languages</summary>
+<p><img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&layout=compact" alt="devqueue" /></p>
+
+</details>
+
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_queue&screen_name=dev_queue
 [youtube]: https://youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA?sub_confirmation=1
