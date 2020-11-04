@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning javascript 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about **Python, Linux,**
 
 ### Spotify Playing 🎧
 
