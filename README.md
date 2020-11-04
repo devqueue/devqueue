@@ -1,6 +1,6 @@
 ### Hi there, I'm haziq - aka [Dev Queue][website] 👋
 
-[![Website](https://img.shields.io/website?label=devqueue.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=dev.to&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dev.to/devqueue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_queue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_queue&screen_name=dev_queue)
 
 ## I'm a Student, Developer, and Teacher!!
@@ -47,7 +47,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/devqueue)
 
 ---
 
