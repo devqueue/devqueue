@@ -1,6 +1,6 @@
 ### Hi there, I'm haziq - aka [Dev Queue][twitter] 👋
 
-[![Website](https://img.shields.io/website?label=medium.com&message=UP&style=for-the-badge)][Medium]
+[![Website](https://img.shields.io/website?label=medium.com&message=UP&url=https%3A%2F%2Fmedium.com/@devqueue&style=for-the-badge)][Medium]
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_queue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_queue&screen_name=dev_queue)
 <p> <img src="https://komarev.com/ghpvc/?username=devqueue&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="devqueue" /> </p>
 
