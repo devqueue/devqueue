@@ -57,8 +57,6 @@
 
 
 <br />
-<br />
-
 <br /> </a> <a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 </a> <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
