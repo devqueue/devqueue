@@ -63,8 +63,10 @@
 
 </a> <a href="https://cloud.google.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 
-
-
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
