@@ -94,18 +94,6 @@
 ➡️ [more blog posts...](https://codestackr.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-3. 💪 Opened PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-4. 🎉 Merged PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-5. 💪 Opened PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-<!--END_SECTION:activity-->
-
 </details>
 
 <details>
@@ -120,6 +108,19 @@
 <p><img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&langs_count=8&layout=compact" alt="devqueue" /></p>
 
 </details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+3. 💪 Opened PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+4. 🎉 Merged PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+5. 💪 Opened PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+<!--END_SECTION:activity-->
+
+
 
 [website]: https://devqueue.io
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_queue&screen_name=dev_queue
