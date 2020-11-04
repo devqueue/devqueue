@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning javascript 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 📝 I regulary write articles on [Medium][Medium]
+- 👨‍💻 All of my projects are available at [devqueue][portfolio]
 
 ### Spotify Playing 🎧
 
@@ -124,6 +126,7 @@
 [linkedin]: https://www.linkedin.com/in/haziq-sayyed-4180971b0/
 
 [Medium]: https://medium.com/@devqueue
+[portfolio]: https://devqueue.github.io/
 [course]: http://vsCodeHero.com
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
