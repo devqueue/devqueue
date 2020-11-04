@@ -45,11 +45,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<<<<<<< HEAD
 
-=======
 - [VS-code quit on arch when opening new folder](https://www.youtube.com/watch?v=Tlt7E0PhHd4)
->>>>>>> 9bb28e417c26872fd2bbbc0d2a21dfa1b97fd6d0
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA?sub_confirmation=1)
