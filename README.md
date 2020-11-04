@@ -99,11 +99,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-2. 💪 Opened PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-3. 🎉 Merged PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-4. 💪 Opened PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
-5. 🎉 Merged PR [#5](https://github.com/smokedpirate/Skyhawk-cli/pull/5) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+1. 🗣 Commented on [#8](https://github.com/jamesgeorge007/github-activity-readme/issues/8) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+3. 💪 Opened PR [#7](https://github.com/smokedpirate/Skyhawk-cli/pull/7) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+4. 🎉 Merged PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
+5. 💪 Opened PR [#6](https://github.com/smokedpirate/Skyhawk-cli/pull/6) in [smokedpirate/Skyhawk-cli](https://github.com/smokedpirate/Skyhawk-cli)
 <!--END_SECTION:activity-->
 
 </details>
