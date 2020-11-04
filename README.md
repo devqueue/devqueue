@@ -85,7 +85,7 @@
 
 <details>
   <summary>:zap: Most used Languages</summary>
-<p><img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&layout=compact" alt="devqueue" /></p>
+<p><img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&langs_count=8" alt="devqueue" /></p>
 
 </details>
 
