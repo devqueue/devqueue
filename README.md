@@ -111,7 +111,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Haziq Sayyed's GitHub Stats" src="https://github-readme-devqueue.vercel.app/api?username=devqueue&show_icons=true&hide_border=true" />
+  <img align="left" alt="Haziq's GitHub Stats" src="https://github-readme-devqueue.vercel.app/api?username=devqueue&show_icons=true&hide_border=true" />
 
 </details>
 
