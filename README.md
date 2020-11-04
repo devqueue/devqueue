@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, and Educator!!
 
 - 🔭 I am currently working on a project: [Skyhawk CLI](https://github.com/devqueue/Skyhawk-cli)!
-- 🌱 I’m currently learning javascript 🤣
+- 🌱 I’m currently learning Web development 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📝 I regulary write articles on [Medium][Medium]
