@@ -1,4 +1,4 @@
-### Hi there, I'm haziq - aka [Dev Queue][website] 👋
+### Hi there, I'm haziq - aka [Dev Queue][twitter] 👋
 
 [![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][Medium]
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_queue?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_queue&screen_name=dev_queue)
@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning javascript 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about **Python, Linux,**
 
 ### Spotify Playing 🎧
 
@@ -135,8 +134,6 @@
 
 <!--additionals: 
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
