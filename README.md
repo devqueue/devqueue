@@ -90,7 +90,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://devqueue.medium.com/)
 
 ---
 </details>
