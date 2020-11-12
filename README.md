@@ -87,7 +87,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to create a CLI using Click](https://medium.com/@devqueue/how-to-create-a-cli-using-click-8b4a72d4713b?source=rss-80069063215c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://devqueue.medium.com/)
