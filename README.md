@@ -112,11 +112,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/devqueue/Skyhawk-cli/issues/11) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-2. ❗️ Closed issue [#9](https://github.com/devqueue/Skyhawk-cli/issues/9) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-3. 🗣 Commented on [#9](https://github.com/devqueue/Skyhawk-cli/issues/9) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-4. 🎉 Merged PR [#10](https://github.com/devqueue/Skyhawk-cli/pull/10) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-5. 🗣 Commented on [#10](https://github.com/devqueue/Skyhawk-cli/issues/10) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+1. ❗️ Opened issue [#15](https://github.com/devqueue/Skyhawk-cli/issues/15) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+2. ❗️ Opened issue [#14](https://github.com/devqueue/Skyhawk-cli/issues/14) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+3. 💪 Opened PR [#13](https://github.com/devqueue/Skyhawk-cli/pull/13) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+4. 💪 Opened PR [#12](https://github.com/devqueue/Skyhawk-cli/pull/12) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+5. ❗️ Opened issue [#11](https://github.com/devqueue/Skyhawk-cli/issues/11) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 <!--END_SECTION:activity-->
 
 
