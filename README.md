@@ -124,7 +124,7 @@
 [website]: https://devqueue.io
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdev_queue&screen_name=dev_queue
 [youtube]: https://youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA?sub_confirmation=1
-[instagram]: https://instagram.com/dev_queue
+[instagram]: https://www.instagram.com/devqueue.io/
 [linkedin]: https://www.linkedin.com/in/haziq-sayyed-4180971b0/
 
 [Medium]: https://medium.com/@devqueue
