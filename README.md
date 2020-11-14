@@ -112,11 +112,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/devqueue/Skyhawk-cli/pull/13) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-2. ❗️ Closed issue [#15](https://github.com/devqueue/Skyhawk-cli/issues/15) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-3. 🎉 Merged PR [#12](https://github.com/devqueue/Skyhawk-cli/pull/12) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-4. ❗️ Closed issue [#14](https://github.com/devqueue/Skyhawk-cli/issues/14) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-5. ❗️ Opened issue [#15](https://github.com/devqueue/Skyhawk-cli/issues/15) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+1. 🎉 Merged PR [#1](https://github.com/devqueue/snake_game/pull/1) in [devqueue/snake_game](https://github.com/devqueue/snake_game)
+2. 🎉 Merged PR [#13](https://github.com/devqueue/Skyhawk-cli/pull/13) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+3. ❗️ Closed issue [#15](https://github.com/devqueue/Skyhawk-cli/issues/15) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+4. 🎉 Merged PR [#12](https://github.com/devqueue/Skyhawk-cli/pull/12) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+5. ❗️ Closed issue [#14](https://github.com/devqueue/Skyhawk-cli/issues/14) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 <!--END_SECTION:activity-->
 
 
