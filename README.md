@@ -89,7 +89,7 @@
 ➡️ [more blog posts...](https://devqueue.medium.com/)
 
 ---
-</details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -114,7 +114,7 @@
 4. 🎉 Merged PR [#1](https://github.com/devqueue/snake_game/pull/1) in [devqueue/snake_game](https://github.com/devqueue/snake_game)
 5. 🎉 Merged PR [#13](https://github.com/devqueue/Skyhawk-cli/pull/13) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 <!--END_SECTION:activity-->
-
+</details>
 
 
 [website]: https://devqueue.io
