@@ -89,7 +89,12 @@
 ➡️ [more blog posts...](https://devqueue.medium.com/)
 
 ---
+<style>
+summary {
+  display: block;
+}
 
+</style>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
