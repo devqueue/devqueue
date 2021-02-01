@@ -104,7 +104,7 @@
 </details>
 
 <details>
-  <summary> Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#16](https://github.com/devqueue/Skyhawk-cli/pull/16) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
