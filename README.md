@@ -72,7 +72,7 @@
 - [[live stream] Python Computer science Class 12 CBSE 2021 | All networking concepts one shot](https://www.youtube.com/watch?v=JbaBNhBw0gQ)
 - [Stack implementation in python](https://www.youtube.com/watch?v=wGTmEdtSMCI)
 - [Basic SQL Python connectivity](https://www.youtube.com/watch?v=SjmsZHqDU4M)
-- [Python Computer science Class 12 CBSE 2021 | All networking concepts one shot (upload)](https://www.youtube.com/watch?v=PoLsXLTqWqQ)
+- [(upload) Python Computer science Class 12 CBSE 2021 | All networking concepts one shot](https://www.youtube.com/watch?v=PoLsXLTqWqQ)
 - [[Live Stream] Python Computer science Class 12 CBSE 2021 | Full Revision one shot](https://www.youtube.com/watch?v=56ouRZf7HFE)
 <!-- YOUTUBE:END -->
 
