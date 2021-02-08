@@ -69,11 +69,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to build a key logger in python | Dev Queue](https://www.youtube.com/watch?v=mtK0NQ4wve8)
 - [[live stream] Python Computer science Class 12 CBSE 2021 | All networking concepts one shot](https://www.youtube.com/watch?v=JbaBNhBw0gQ)
 - [Stack implementation in python](https://www.youtube.com/watch?v=wGTmEdtSMCI)
 - [Basic SQL Python connectivity](https://www.youtube.com/watch?v=SjmsZHqDU4M)
 - [(upload) Python Computer science Class 12 CBSE 2021 | All networking concepts one shot](https://www.youtube.com/watch?v=PoLsXLTqWqQ)
-- [[Live Stream] Python Computer science Class 12 CBSE 2021 | Full Revision one shot](https://www.youtube.com/watch?v=56ouRZf7HFE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA?sub_confirmation=1)
