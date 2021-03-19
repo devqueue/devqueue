@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotifyplaying-eight.vercel.app/api/spotify" alt="devqueue Spotify Playing" width="350" />](https://open.spotify.com/user/vqu8k730g6kirtaokxjkqwrb9)
+[<img src="https://spotifyplaying-devqueue.vercel.app/api/spotify" alt="devqueue Spotify Playing" width="350" />](https://open.spotify.com/user/vqu8k730g6kirtaokxjkqwrb9)
 
 ### Connect with me:
 
