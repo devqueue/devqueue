@@ -105,7 +105,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/devqueue/Skyhawk-cli/pull/16) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+1. ❗️ Opened issue [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
 2. 🗣 Commented on [#8](https://github.com/devqueue/Skyhawk-cli/issues/8) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 3. 💪 Opened PR [#16](https://github.com/devqueue/Skyhawk-cli/pull/16) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 4. 🎉 Merged PR [#1](https://github.com/devqueue/snake_game/pull/1) in [devqueue/snake_game](https://github.com/devqueue/snake_game)
