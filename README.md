@@ -105,11 +105,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
-2. 🗣 Commented on [#197](https://github.com/yuk7/ArchWSL/issues/197) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
+1. ❗️ Closed issue [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
+2. 🗣 Commented on [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
 3. 🗣 Commented on [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
-4. ❗️ Opened issue [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
-5. 🎉 Merged PR [#13](https://github.com/devqueue/Skyhawk-cli/pull/13) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+4. 🗣 Commented on [#197](https://github.com/yuk7/ArchWSL/issues/197) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
+5. 🗣 Commented on [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
 <!--END_SECTION:activity-->
 </details>
 
