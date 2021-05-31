@@ -81,7 +81,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a CLI using Click](https://devqueue.medium.com/how-to-create-a-cli-using-click-8b4a72d4713b?source=rss-80069063215c------2)
+- [Analyzing personal Web activity](https://devqueue.medium.com/analyzing-personal-web-activity-5df9cf1bdef5?source=rss-80069063215c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://devqueue.medium.com/)
