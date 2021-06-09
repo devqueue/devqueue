@@ -81,6 +81,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Instagram Chat data using python](https://devqueue.medium.com/analyzing-instagram-chat-data-using-python-500ab6941dc3?source=rss-80069063215c------2)
 - [Analyzing personal Web activity](https://devqueue.medium.com/analyzing-personal-web-activity-5df9cf1bdef5?source=rss-80069063215c------2)
 <!-- BLOG-POST-LIST:END -->
 
