@@ -106,9 +106,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8224](https://github.com/education/GitHubGraduation-2021/pull/8224) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. ❗️ Closed issue [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
-3. 🗣 Commented on [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
+1. 💪 Opened PR [#18](https://github.com/devqueue/Skyhawk-cli/pull/18) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+2. 🎉 Merged PR [#17](https://github.com/devqueue/Skyhawk-cli/pull/17) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+3. 💪 Opened PR [#8224](https://github.com/education/GitHubGraduation-2021/pull/8224) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 4. 🗣 Commented on [#196](https://github.com/yuk7/ArchWSL/issues/196) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
 5. 🗣 Commented on [#197](https://github.com/yuk7/ArchWSL/issues/197) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
 <!--END_SECTION:activity-->
