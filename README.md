@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotifyplaying-eight.vercel.app/api/spotify)](https://open.spotify.com/user/devqueue)
+[![Spotify](https://novatorem-eight-eta.vercel.app/api/spotify)](https://open.spotify.com/user/devqueue)
 
 ### Connect with me:
 
