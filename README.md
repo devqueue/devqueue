@@ -56,18 +56,7 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
 ---
 
 <details>
-<summary>:zap: GitHub Stats & Activity</summary>
-<div> 
-<!--Recent github Activity-->
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/khairalanam/Number_guesser/pull/1) in [khairalanam/Number_guesser](https://github.com/khairalanam/Number_guesser)
-2. 💪 Opened PR [#18](https://github.com/devqueue/Skyhawk-cli/pull/18) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-3. 🎉 Merged PR [#17](https://github.com/devqueue/Skyhawk-cli/pull/17) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-4. 💪 Opened PR [#8224](https://github.com/education/GitHubGraduation-2021/pull/8224) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 🗣 Commented on [#197](https://github.com/yuk7/ArchWSL/issues/197) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
-<!--END_SECTION:activity-->
-</div>
-<br >
+<summary>:zap: GitHub Activity</summary>
 <div> 
 <!--Github Stats-->
 <img align="left" alt="Haziq's GitHub Stats" src="https://github-readme-devqueue.vercel.app/api?username=devqueue&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
@@ -76,6 +65,17 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
 <div> 
 <!-- Most used Languages-->
 <img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&langs_count=8&layout=compact&theme=tokyonight" alt="devqueue" />
+</div>
+<br >
+<div> 
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/khairalanam/Number_guesser/pull/1) in [khairalanam/Number_guesser](https://github.com/khairalanam/Number_guesser)
+2. 💪 Opened PR [#18](https://github.com/devqueue/Skyhawk-cli/pull/18) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+3. 🎉 Merged PR [#17](https://github.com/devqueue/Skyhawk-cli/pull/17) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
+4. 💪 Opened PR [#8224](https://github.com/education/GitHubGraduation-2021/pull/8224) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+5. 🗣 Commented on [#197](https://github.com/yuk7/ArchWSL/issues/197) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
+<!--END_SECTION:activity-->
 </div>
 
 
