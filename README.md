@@ -64,7 +64,7 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
 <br >
 <br >
 
-
+#### Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/khairalanam/Number_guesser/pull/1) in [khairalanam/Number_guesser](https://github.com/khairalanam/Number_guesser)
 2. 💪 Opened PR [#18](https://github.com/devqueue/Skyhawk-cli/pull/18) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
