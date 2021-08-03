@@ -62,10 +62,6 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
 <img align="left" alt="Haziq's GitHub Stats" src="https://github-readme-devqueue.vercel.app/api?username=devqueue&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 <br >
-
-<!-- Most used Languages-->
-<img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&langs_count=8&layout=compact&theme=tokyonight" alt="devqueue" />
-
 <br >
 
 
@@ -117,6 +113,9 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
 
 --profile visits
 <p> <img src="https://komarev.com/ghpvc/?username=devqueue&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="devqueue" /> </p>
+
+-- Most used Languages
+<img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&langs_count=8&layout=compact&theme=tokyonight" alt="devqueue" />
 
 -->
 
