@@ -56,7 +56,7 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
 ---
 
 <details>
-<summary>:zap: GitHub Activity</summary>
+<summary>:zap: GitHub Activity & Stats</summary>
 
 <!--Github Stats-->
 <img align="left" alt="Haziq's GitHub Stats" src="https://github-readme-devqueue.vercel.app/api?username=devqueue&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
