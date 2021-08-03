@@ -59,15 +59,15 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I S
   <summary>:zap: GitHub Stats & Activity</summary>
 
   <div> 
-    #### Github Stats
+    <!--Github Stats-->
     <img align="left" alt="Haziq's GitHub Stats" src="https://github-readme-devqueue.vercel.app/api?username=devqueue&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
   </div>
-
+  <br/>
   <div> 
     <!-- Most used Languages-->
     <img align="left" src="https://github-readme-devqueue.vercel.app/api/top-langs?username=devqueue&show_icons=true&locale=en&langs_count=8&layout=compact&theme=tokyonight" alt="devqueue" />
   </div>
-
+  <br/>
   <div> 
     <!--Recent github Activity-->
     <!--START_SECTION:activity-->
