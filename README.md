@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/devqueue/devqueue/blob/master/media/hi.png?raw=true"/>
 
-I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube]. I Spend most of time coding outstanding projects or recording tutorials.
+I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br> I Spend most of time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
 
