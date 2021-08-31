@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
-2. 💪 Opened PR [#1](https://github.com/khairalanam/Number_guesser/pull/1) in [khairalanam/Number_guesser](https://github.com/khairalanam/Number_guesser)
-3. 💪 Opened PR [#18](https://github.com/devqueue/Skyhawk-cli/pull/18) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-4. 🎉 Merged PR [#17](https://github.com/devqueue/Skyhawk-cli/pull/17) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
-5. 🗣 Commented on [#197](https://github.com/yuk7/ArchWSL/issues/197) in [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL)
+1. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+2. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+3. ❗️ Opened issue [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+4. 💪 Opened PR [#1](https://github.com/khairalanam/Number_guesser/pull/1) in [khairalanam/Number_guesser](https://github.com/khairalanam/Number_guesser)
+5. 💪 Opened PR [#18](https://github.com/devqueue/Skyhawk-cli/pull/18) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 <!--END_SECTION:activity-->
 
 
