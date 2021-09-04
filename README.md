@@ -78,8 +78,8 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 1. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 2. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 3. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
-4. ❗️ Opened issue [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
-5. 💪 Opened PR [#1](https://github.com/khairalanam/Number_guesser/pull/1) in [khairalanam/Number_guesser](https://github.com/khairalanam/Number_guesser)
+4. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+5. ❗️ Opened issue [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 <!--END_SECTION:activity-->
 
 
