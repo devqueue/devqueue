@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+1. ❗️ Opened issue [#1](https://github.com/DesktopECHO/Kali-xRDP/issues/1) in [DesktopECHO/Kali-xRDP](https://github.com/DesktopECHO/Kali-xRDP)
 2. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 3. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 4. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
-5. ❗️ Opened issue [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+5. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 <!--END_SECTION:activity-->
 
 
