@@ -75,7 +75,7 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/DesktopECHO/Kali-xRDP/issues/1) in [DesktopECHO/Kali-xRDP](https://github.com/DesktopECHO/Kali-xRDP)
+1. 🎉 Merged PR [#19](https://github.com/devqueue/Skyhawk-cli/pull/19) in [devqueue/Skyhawk-cli](https://github.com/devqueue/Skyhawk-cli)
 2. 🗣 Commented on [#1](https://github.com/DesktopECHO/Kali-xRDP/issues/1) in [DesktopECHO/Kali-xRDP](https://github.com/DesktopECHO/Kali-xRDP)
 3. 🗣 Commented on [#1](https://github.com/DesktopECHO/Kali-xRDP/issues/1) in [DesktopECHO/Kali-xRDP](https://github.com/DesktopECHO/Kali-xRDP)
 4. 🗣 Commented on [#1](https://github.com/DesktopECHO/Kali-xRDP/issues/1) in [DesktopECHO/Kali-xRDP](https://github.com/DesktopECHO/Kali-xRDP)
