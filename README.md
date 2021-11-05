@@ -76,10 +76,10 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-2. 💪 Opened PR [#7](https://github.com/Codervini/HARVI/pull/7) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
-3. ❌ Closed PR [#6](https://github.com/Codervini/HARVI/pull/6) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
-4. 🗣 Commented on [#6](https://github.com/Codervini/HARVI/issues/6) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
-5. ❗️ Opened issue [#5](https://github.com/Codervini/HARVI/issues/5) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
+2. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+3. 💪 Opened PR [#7](https://github.com/Codervini/HARVI/pull/7) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
+4. ❌ Closed PR [#6](https://github.com/Codervini/HARVI/pull/6) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
+5. 🗣 Commented on [#6](https://github.com/Codervini/HARVI/issues/6) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
 <!--END_SECTION:activity-->
 
 
