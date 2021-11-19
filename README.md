@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-2. 🗣 Commented on [#7](https://github.com/ventoy/Ventoy/issues/7) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-3. 💪 Opened PR [#7](https://github.com/Codervini/HARVI/pull/7) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
-4. ❌ Closed PR [#6](https://github.com/Codervini/HARVI/pull/6) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
-5. 🗣 Commented on [#6](https://github.com/Codervini/HARVI/issues/6) in [Codervini/HARVI](https://github.com/Codervini/HARVI)
+1. 🗣 Commented on [#2](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/2) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+2. 🗣 Commented on [#1](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/1) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+3. 🗣 Commented on [#3](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/3) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+4. 🗣 Commented on [#4](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/4) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+5. 🎉 Merged PR [#2](https://github.com/devqueue/simple-toolchain-20211119134750661/pull/2) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
 <!--END_SECTION:activity-->
 
 
