@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/2) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
-2. 🗣 Commented on [#1](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/1) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
-3. 🗣 Commented on [#3](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/3) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
-4. 🗣 Commented on [#4](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/4) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
-5. 🎉 Merged PR [#2](https://github.com/devqueue/simple-toolchain-20211119134750661/pull/2) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+1. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
+2. 🗣 Commented on [#2](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/2) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+3. 🗣 Commented on [#1](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/1) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+4. 🗣 Commented on [#3](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/3) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+5. 🗣 Commented on [#4](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/4) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
 <!--END_SECTION:activity-->
 
 
