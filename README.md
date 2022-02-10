@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#362](https://github.com/AdnanHodzic/auto-cpufreq/issues/362) in [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
-2. ❗️ Opened issue [#362](https://github.com/AdnanHodzic/auto-cpufreq/issues/362) in [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
-3. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
-4. 🗣 Commented on [#2](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/2) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
-5. 🗣 Commented on [#1](https://github.com/devqueue/simple-toolchain-20211119134750661/issues/1) in [devqueue/simple-toolchain-20211119134750661](https://github.com/devqueue/simple-toolchain-20211119134750661)
+1. 🎉 Merged PR [#1](https://github.com/devqueue/assaydashboard/pull/1) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+2. 💪 Opened PR [#1](https://github.com/devqueue/assaydashboard/pull/1) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+3. ❗️ Closed issue [#362](https://github.com/AdnanHodzic/auto-cpufreq/issues/362) in [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+4. ❗️ Opened issue [#362](https://github.com/AdnanHodzic/auto-cpufreq/issues/362) in [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
+5. 🗣 Commented on [#7](https://github.com/xexpanderx/Conky-themes/issues/7) in [xexpanderx/Conky-themes](https://github.com/xexpanderx/Conky-themes)
 <!--END_SECTION:activity-->
 
 
