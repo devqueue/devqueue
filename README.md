@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/devqueue/assaydashboard/pull/3) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
-2. 💪 Opened PR [#3](https://github.com/devqueue/assaydashboard/pull/3) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
-3. 🎉 Merged PR [#2](https://github.com/devqueue/assaydashboard/pull/2) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
-4. 💪 Opened PR [#2](https://github.com/devqueue/assaydashboard/pull/2) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
-5. 🎉 Merged PR [#1](https://github.com/devqueue/assaydashboard/pull/1) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+1. 🎉 Merged PR [#5](https://github.com/devqueue/assaydashboard/pull/5) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+2. 💪 Opened PR [#5](https://github.com/devqueue/assaydashboard/pull/5) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+3. 🎉 Merged PR [#4](https://github.com/devqueue/assaydashboard/pull/4) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+4. 💪 Opened PR [#4](https://github.com/devqueue/assaydashboard/pull/4) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+5. 🎉 Merged PR [#3](https://github.com/devqueue/assaydashboard/pull/3) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
 <!--END_SECTION:activity-->
 
 
