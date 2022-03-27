@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/app-generator/django-black-dashboard/issues/5) in [app-generator/django-black-dashboard](https://github.com/app-generator/django-black-dashboard)
-2. 🎉 Merged PR [#1](https://github.com/devqueue/genelookup/pull/1) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-3. 💪 Opened PR [#1](https://github.com/devqueue/genelookup/pull/1) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-4. ❗️ Opened issue [#11972](https://github.com/uBlockOrigin/uAssets/issues/11972) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
-5. 🎉 Merged PR [#5](https://github.com/devqueue/assaydashboard/pull/5) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+1. 🎉 Merged PR [#2](https://github.com/devqueue/genelookup/pull/2) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+2. 💪 Opened PR [#2](https://github.com/devqueue/genelookup/pull/2) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+3. ❗️ Opened issue [#5](https://github.com/app-generator/django-black-dashboard/issues/5) in [app-generator/django-black-dashboard](https://github.com/app-generator/django-black-dashboard)
+4. 🎉 Merged PR [#1](https://github.com/devqueue/genelookup/pull/1) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+5. 💪 Opened PR [#1](https://github.com/devqueue/genelookup/pull/1) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
 <!--END_SECTION:activity-->
 
 
