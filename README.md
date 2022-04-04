@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/devqueue/genelookup/pull/5) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-2. 💪 Opened PR [#5](https://github.com/devqueue/genelookup/pull/5) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-3. 🎉 Merged PR [#4](https://github.com/devqueue/genelookup/pull/4) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-4. 🗣 Commented on [#3](https://github.com/devqueue/genelookup/issues/3) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-5. ❌ Closed PR [#3](https://github.com/devqueue/genelookup/pull/3) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+1. 💪 Opened PR [#6](https://github.com/devqueue/genelookup/pull/6) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+2. 🎉 Merged PR [#5](https://github.com/devqueue/genelookup/pull/5) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+3. 💪 Opened PR [#5](https://github.com/devqueue/genelookup/pull/5) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+4. 🎉 Merged PR [#4](https://github.com/devqueue/genelookup/pull/4) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+5. 🗣 Commented on [#3](https://github.com/devqueue/genelookup/issues/3) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
 <!--END_SECTION:activity-->
 
 
