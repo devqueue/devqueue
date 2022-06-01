@@ -75,11 +75,11 @@ I'm Haziq Sayyed a Data scientist and Content Creator on [Youtube][youtube].<br>
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/devqueue/facerect-test/pull/1) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
-2. 🎉 Merged PR [#6](https://github.com/devqueue/assaydashboard/pull/6) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
-3. 💪 Opened PR [#6](https://github.com/devqueue/assaydashboard/pull/6) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
-4. ❌ Closed PR [#12](https://github.com/devqueue/genelookup/pull/12) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
-5. 🗣 Commented on [#12](https://github.com/devqueue/genelookup/issues/12) in [devqueue/genelookup](https://github.com/devqueue/genelookup)
+1. 🎉 Merged PR [#4](https://github.com/devqueue/facerect-test/pull/4) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
+2. 🎉 Merged PR [#3](https://github.com/devqueue/facerect-test/pull/3) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
+3. 🎉 Merged PR [#1](https://github.com/devqueue/facerect-test/pull/1) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
+4. 🎉 Merged PR [#6](https://github.com/devqueue/assaydashboard/pull/6) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
+5. 💪 Opened PR [#6](https://github.com/devqueue/assaydashboard/pull/6) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
 <!--END_SECTION:activity-->
 
 
