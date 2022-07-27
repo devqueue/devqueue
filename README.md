@@ -13,7 +13,7 @@ I'm Haziq Sayyed a Data analyst and Content Creator on [Youtube][youtube].<br> I
 - 🌱 I’m learning Web development 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📝 I regulary write articles on [Medium][Medium]
+- 📝 I write articles on [Medium][Medium]
 - 👨‍💻 All of my projects are available at [devqueue][portfolio]
 
 
