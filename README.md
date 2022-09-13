@@ -75,8 +75,8 @@ I'm Haziq Sayyed a Data analyst and Content Creator on [Youtube][youtube].<br> I
 
 #### 🪄 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/qiime2/q2view/issues/124) in [qiime2/q2view](https://github.com/qiime2/q2view)
-2. 🎉 Merged PR [#4](https://github.com/devqueue/facerect-test/pull/4) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
+1. ❗️ Opened issue [#5](https://github.com/sanchit2843/Indian_LPR/issues/5) in [sanchit2843/Indian_LPR](https://github.com/sanchit2843/Indian_LPR)
+2. 🗣 Commented on [#124](https://github.com/qiime2/q2view/issues/124) in [qiime2/q2view](https://github.com/qiime2/q2view)
 3. 🎉 Merged PR [#3](https://github.com/devqueue/facerect-test/pull/3) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
 4. 🎉 Merged PR [#1](https://github.com/devqueue/facerect-test/pull/1) in [devqueue/facerect-test](https://github.com/devqueue/facerect-test)
 5. 🎉 Merged PR [#6](https://github.com/devqueue/assaydashboard/pull/6) in [devqueue/assaydashboard](https://github.com/devqueue/assaydashboard)
