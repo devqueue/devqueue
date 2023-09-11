@@ -35,11 +35,9 @@ I'm Haziq Sayyed a Data analyst and Content Creator on [Youtube][youtube].<br> I
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to convert .py files to exe](https://www.youtube.com/watch?v=u4kxqGRgOcI)
-- [How to prank your friends with python](https://www.youtube.com/watch?v=4NcSpu1z0RU)
-- [How to build a key logger in python | Dev Queue](https://www.youtube.com/watch?v=mtK0NQ4wve8)
 - [[live stream] Python Computer science Class 12 CBSE 2021 | All networking concepts one shot](https://www.youtube.com/watch?v=JbaBNhBw0gQ)
-- [Stack implementation in python](https://www.youtube.com/watch?v=wGTmEdtSMCI)
+- [[Live Stream] Python Computer science Class 12 CBSE 2021 | Full Revision one shot](https://www.youtube.com/watch?v=56ouRZf7HFE)
+- [Dev Queue Live Stream](https://www.youtube.com/watch?v=E1pAA6Fx4Ic)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
