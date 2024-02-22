@@ -35,8 +35,6 @@ I'm Haziq Sayyed a Data analyst and Content Creator on [Youtube][youtube].<br> I
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[live stream] Python Computer science Class 12 CBSE 2021 | All networking concepts one shot](https://www.youtube.com/watch?v=JbaBNhBw0gQ)
-- [[Live Stream] Python Computer science Class 12 CBSE 2021 | Full Revision one shot](https://www.youtube.com/watch?v=56ouRZf7HFE)
 - [Dev Queue Live Stream](https://www.youtube.com/watch?v=E1pAA6Fx4Ic)
 <!-- YOUTUBE:END -->
 
