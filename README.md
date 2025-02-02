@@ -1,25 +1,9 @@
-## Hi I'm Haziq <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm devquue <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <img align="right" alt="GIF" src="https://github.com/devqueue/devqueue/blob/master/media/hi.png?raw=true"/>
 
-I'm Haziq Sayyed a Data analyst and Content Creator on [Youtube][youtube].<br> I Spend most of time coding outstanding projects or recording tutorials.
-
-:mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@dev_queue-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dev_queue)](https://twitter.com/dev_queue) [![Mail Badge](https://img.shields.io/badge/-DevQueue-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA) [![Linkedin Badge](https://img.shields.io/badge/-Haziq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-sayyed-4180971b0/) [![Mail Badge](https://img.shields.io/badge/-@devqueue-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/devqueue.io) 
-## I'm a Developer and an Educator!!
-
-- 🔭 I am currently maintaining a project: [Skyhawk CLI](https://github.com/devqueue/Skyhawk-cli)!
-- 🌱 I’m learning Web development 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📝 I write articles on [Medium][Medium]
-- 👨‍💻 All of my projects are available at [devqueue][portfolio]
-
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-eight-eta.vercel.app/api/spotify)](https://open.spotify.com/user/devqueue)
 
 
 
