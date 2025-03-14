@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/devqueue/devqueue/blob/master/media/hi.png?raw=true"/>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@dev_queue-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dev_queue)](https://twitter.com/dev_queue) [![Mail Badge](https://img.shields.io/badge/-DevQueue-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA) [![Linkedin Badge](https://img.shields.io/badge/-Haziq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-sayyed-4180971b0/) [![Mail Badge](https://img.shields.io/badge/-@devqueue-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/devqueue.io) 
+[![Twitter Badge](https://img.shields.io/badge/-@dev_queue-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dev_queue)](https://twitter.com/dev_queue) [![Mail Badge](https://img.shields.io/badge/-DevQueue-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWHPDWabtOlVxz0uiMtsbCA) [![Mail Badge](https://img.shields.io/badge/-@devqueue-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/devqueue.io) 
 
 
 
